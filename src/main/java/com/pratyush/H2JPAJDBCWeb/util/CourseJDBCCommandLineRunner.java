@@ -1,5 +1,7 @@
-package com.pratyush.H2JPAJDBCWeb;
+package com.pratyush.H2JPAJDBCWeb.util;
 
+import com.pratyush.H2JPAJDBCWeb.model.Course;
+import com.pratyush.H2JPAJDBCWeb.repo.CourseJdbcRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

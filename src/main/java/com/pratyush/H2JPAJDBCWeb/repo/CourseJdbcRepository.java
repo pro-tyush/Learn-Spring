@@ -1,5 +1,6 @@
-package com.pratyush.H2JPAJDBCWeb;
+package com.pratyush.H2JPAJDBCWeb.repo;
 
+import com.pratyush.H2JPAJDBCWeb.model.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

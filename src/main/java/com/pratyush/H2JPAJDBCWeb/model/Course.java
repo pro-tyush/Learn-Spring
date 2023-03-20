@@ -1,4 +1,4 @@
-package com.pratyush.H2JPAJDBCWeb;
+package com.pratyush.H2JPAJDBCWeb.model;
 
 public class Course {
     private long id;
